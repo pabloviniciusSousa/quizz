@@ -1,7 +1,7 @@
 
 # Projeto Quiz em kottlin
 
-Projeto criado tem como objetivo de aprender sobre Tipos Genericos e Singleton, em kotlin, criando uma classe com questões e outra com os Quiz respondidos.
+Projeto criado tem como objetivo de aprender sobre Tipos Genericos e Singleton, em kotlin, criando uma classe com questões e outra chamado Quiz com as perguntas, respostas e dificuldase.
 
 
 ## Autores
